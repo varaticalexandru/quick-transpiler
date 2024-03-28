@@ -1,0 +1,18 @@
+creates a new domain
+        adds symbol max
+creates a new domain
+        adds symbol x
+        adds symbol x as argument
+        adds symbol y
+        adds symbol y as argument
+deletes the current domain
+        deletes the symbol y
+        deletes the symbol x
+returns to the parent domain
+        adds symbol i
+deletes the current domain
+        deletes the symbol i
+        deletes the symbol max
+        deletes the symbol x
+        deletes the symbol y
+returns to the parent domain

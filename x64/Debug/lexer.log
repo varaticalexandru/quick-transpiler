@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (lexer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+C:\Users\varat\GIT\faculty\an_3\sem_1\LFTC\syntaxer\lexer.h(92,22): warning C4090: 'return': different 'const' qualifiers
+  transpiled_1.c
+  Generating Code...
+  lexer.vcxproj -> C:\Users\varat\GIT\faculty\an_3\sem_1\LFTC\syntaxer\x64\Debug\syntaxer.exe

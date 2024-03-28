@@ -1,0 +1,2 @@
+C:\Users\varat\GIT\faculty\an_3\sem_1\LFTC\lexer\x64\Debug\lexer.exe
+C:\Users\varat\GIT\faculty\an_3\sem_1\LFTC\syntaxer\x64\Debug\syntaxer.exe
